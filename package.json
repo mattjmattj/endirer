@@ -1,0 +1,25 @@
+{
+  "name": "endirer",
+  "version": "1.0.0",
+  "description": "La lib endirer t'as cru c'est pour faire des mocks en javascript.",
+  "main": "src/endirer.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattjmattj/endirer.git"
+  },
+  "author": "Matthias Jouan <matthias.jouan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattjmattj/endirer/issues"
+  },
+  "homepage": "https://github.com/mattjmattj/endirer#readme",
+  "dependencies": {
+    "a": "^1.0.2"
+  },
+  "devDependencies": {
+    "win-ze-yes": "git+https://github.com/mattjmattj/win-ze-yes.js.git"
+  }
+}

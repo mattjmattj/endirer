@@ -1,2 +1,3 @@
 # endirer
-Mocking library for fun... and javascript
+
+La lib endirer t'as cru c'est pour faire des mocks en javascript
