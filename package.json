@@ -1,7 +1,7 @@
 {
   "name": "endirer",
   "version": "1.0.0",
-  "description": "La lib endirer t'as cru c'est pour faire des mocks en javascript.",
+  "description": "La lib, endirer t'as cru c'est pour faire des mocks en javascript.",
   "main": "src/endirer.js",
   "scripts": {
     "test": "mocha test"
